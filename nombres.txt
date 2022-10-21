@@ -4,6 +4,6 @@ Integrantes
 
 - Federico Fabian Paz - País: Argentina
 - Laura Vanessa Gutierrez Bustos - País: Colombia 
-- Nelson David Camacho Ovalle - País: Colombia
+- Nelson David Camacho Ovalle - País: Colombia - Alias: Nel
 
 BOOTCAMP JAVA W18
