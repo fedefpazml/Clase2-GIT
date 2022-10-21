@@ -2,8 +2,8 @@ Equipo # 6:
 
 Integrantes
 
-- Federico Fabian Paz
-- Laura Vanessa Gutierrez Bustos
-- Nelson David Camacho Ovalle
+- Federico Fabian Paz - País: Argentina
+- Laura Vanessa Gutierrez Bustos - País: Colombia 
+- Nelson David Camacho Ovalle - País: Colombia
 
 BOOTCAMP JAVA W18
