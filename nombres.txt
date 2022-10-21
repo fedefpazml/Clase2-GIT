@@ -1,9 +1,9 @@
-Equipo # 6:
+quipo # 6:
 
 Integrantes
 
-- Federico Fabian Paz - País: Argentina
-- Laura Vanessa Gutierrez Bustos - País: Colombia Alias "Lau"
-- Nelson David Camacho Ovalle - País: Colombia
+- Federico Fabian Paz - País: Argentina - Alias: Fede
+- Laura Vanessa Gutierrez Bustos - País: Colombia - Alias: Lau
+- Nelson David Camacho Ovalle - País: Colombia - Alias: Nel
 
 BOOTCAMP JAVA W18
